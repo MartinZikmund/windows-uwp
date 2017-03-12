@@ -24,7 +24,7 @@ The bottom line: You can spend your time working with familiar programming langu
 ##So, what *exactly* is a UWP app?
 
 
-What makes a UWP app special? Here are some of the characteristics that make UWP apps on Windows 10 different.
+(What makes a UWP app special? Here are some of the characteristics that make UWP apps on Windows 10 different.
 
 -   **Apps target device families, not an OS**
 
@@ -58,7 +58,7 @@ UWP apps use the Windows Runtime, a native API built into the operating system. 
 -   DirectX UI and a C++ backend
 -   JavaScript and HTML
 
-Microsoft Visual Studio 2015 provides a UWP app template for each language that lets you create a single project for all devices. When your work is finished, you can produce an app package and submit it to the Windows Store from within Visual Studio to get your app out to customers on any Windows 10 device.
+Microsoft Visual Studio (2015 and later) provides a UWP app template for each language that lets you create a single project for all devices. When your work is finished, you can produce an app package and submit it to the Windows Store from within Visual Studio to get your app out to customers on any Windows 10 device.
 
 ## UWP apps come to life on Windows
 
@@ -84,8 +84,9 @@ On Windows, you can choose how you'll monetize your app—across phones, tablets
 
 -   A paid download is the simplest option. Just name your price.
 -   Trials let users try your app before buying it, providing easier discoverability and conversion than the more traditional "freemium" options.
+-   Add-ons and ads.
 -   Use sale prices for apps and add-ons.
--   In-app purchases and ads are also available.
+
 
 ## Let's get started
 
