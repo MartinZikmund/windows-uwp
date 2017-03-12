@@ -84,8 +84,8 @@ On Windows, you can choose how you'll monetize your app—across phones, tablets
 
 -   A paid download is the simplest option. Just name your price.
 -   Trials let users try your app before buying it, providing easier discoverability and conversion than the more traditional "freemium" options.
--   Add-ons and ads.
--   Use sale prices for apps and add-ons.
+-   Add-ons and ads are also supported.
+-   You can set sale prices for apps and add-ons.
 
 
 ## Let's get started
